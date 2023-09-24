@@ -1,2 +1,2 @@
-# NewProectFlexbox
-watch store 
+permalink: /index.html
+
